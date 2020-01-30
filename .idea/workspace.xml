@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b94329a-f501-498f-8579-772221ed2992" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DockerProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/AnimeApi/AnimeApi/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/AnimeApi/AnimeApi/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/AnimeApi/AnimeApi/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/AnimeApi/AnimeApi/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/AnimeApi/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8b94329a-f501-498f-8579-772221ed2992" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +125,7 @@
       <workItem from="1580387522931" duration="636000" />
       <workItem from="1580388180095" duration="260000" />
       <workItem from="1580402882601" duration="1939000" />
-      <workItem from="1580404958558" duration="569000" />
+      <workItem from="1580404958558" duration="817000" />
     </task>
     <servers />
   </component>
